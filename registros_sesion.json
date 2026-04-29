@@ -1,0 +1,26 @@
+{
+  "historico": [
+    {"id_ejercicio": "FB_01", "peso": 120, "reps": 10},
+    {"id_ejercicio": "FB_02", "peso": 80, "reps": 8},
+    {"id_ejercicio": "FB_03", "peso": 70, "reps": 10},
+    {"id_ejercicio": "FB_04", "peso": 200, "reps": 12},
+    {"id_ejercicio": "FB_05", "peso": 45, "reps": 15},
+    {"id_ejercicio": "FB_06", "peso": 60, "reps": 10},
+    {"id_ejercicio": "FB_07", "peso": 35, "reps": 12},
+    {"id_ejercicio": "FB_08", "peso": 25, "reps": 10},
+    {"id_ejercicio": "FB_09", "peso": 30, "reps": 10},
+    {"id_ejercicio": "FB_10", "peso": 60, "reps": 15}
+  ],
+  "actual": [
+    {"id_ejercicio": "FB_01", "peso": 125, "reps": 9, "rpe": 9, "ct": 4.0, "fa": 3},
+    {"id_ejercicio": "FB_02", "peso": 80, "reps": 9, "rpe": 8, "ct": 4.5, "fa": 4},
+    {"id_ejercicio": "FB_03", "peso": 75, "reps": 8, "rpe": 9, "ct": 3.0, "fa": 6},
+    {"id_ejercicio": "FB_04", "peso": 200, "reps": 12, "rpe": 8, "ct": 4.0, "fa": 7},
+    {"id_ejercicio": "FB_05", "peso": 45, "reps": 15, "rpe": 8, "ct": 4.5, "fa": 7},
+    {"id_ejercicio": "FB_06", "peso": 60, "reps": 11, "rpe": 8.5, "ct": 4.0, "fa": 8},
+    {"id_ejercicio": "FB_07", "peso": 40, "reps": 8, "rpe": 9, "ct": 2.5, "fa": 8},
+    {"id_ejercicio": "FB_08", "peso": 25, "reps": 12, "rpe": 9, "ct": 4.0, "fa": 8},
+    {"id_ejercicio": "FB_09", "peso": 30, "reps": 10, "rpe": 7, "ct": 4.0, "fa": 9},
+    {"id_ejercicio": "FB_10", "peso": 65, "reps": 15, "rpe": 9, "ct": 3.5, "fa": 9}
+  ]
+}

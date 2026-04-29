@@ -1,0 +1,12 @@
+[
+  {"id_ejercicio": "FB_01", "nombre": "Sentadilla Hack", "musculo": "quadriceps", ",tier": 2},,
+  {"id_ejercicio": "FB_02", "nombre": "Press de Banca Inclinado", "musculo": "pectoral", "tier": 1},
+  {"id_ejercicio": "FB_03", "nombre": "Remo con Barra", "musculo": "espalda", "tier": 1},
+  {"id_ejercicio": "FB_04", "nombre": "Prensa de Piernas 45", "musculo": "quadriceps", "tier": 2},
+  {"id_ejercicio": "FB_05", "nombre": "Aperturas en Pec Deck", "musculo": "pectoral", "tier": 2},
+  {"id_ejercicio": "FB_06", "nombre": "Jalón al Pecho", "musculo": "espalda", "tier": 2},
+  {"id_ejercicio": "FB_07", "nombre": "Curl de Isquios Tumbado", "musculo": "femoral", "tier": 2},
+  {"id_ejercicio": "FB_08", "nombre": "Extensiones de Tríceps", "musculo": "triceps", "tier": 2},
+  {"id_ejercicio": "FB_09", "nombre": "Curl de Bíceps Predicador", "musculo": "biceps", "tier": 2},
+  {"id_ejercicio": "FB_10", "nombre": "Elevación de Talones", "musculo": "pantorrilla", "tier": 3}
+]
