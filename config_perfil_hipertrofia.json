@@ -7,14 +7,14 @@
   },
   "matriz_reglas_rm": [
     {"delta_1rm": "Retroceso", "rpe": "Suboptimo", "rm": "Deficiente"},
-    {"delta_1rm": "Retroceso", "rpe": "Optimo", "rm": "Estandar"},
-    {"delta_1rm": "Retroceso", "rpe": "Al Limite", "rm": "Deficiente"},
+    {"delta_1rm": "Retroceso", "rpe": "Optimo", "rm": "Aceptable"},
+    {"delta_1rm": "Retroceso", "rpe": "Limite", "rm": "Aceptable"},
     {"delta_1rm": "Mantenimiento", "rpe": "Suboptimo", "rm": "Deficiente"},
     {"delta_1rm": "Mantenimiento", "rpe": "Optimo", "rm": "Aceptable"},
-    {"delta_1rm": "Mantenimiento", "rpe": "Al Limite", "rm": "Aceptable"},
+    {"delta_1rm": "Mantenimiento", "rpe": "Limite", "rm": "Aceptable"},
     {"delta_1rm": "Progreso", "rpe": "Suboptimo", "rm": "Aceptable"},
     {"delta_1rm": "Progreso", "rpe": "Optimo", "rm": "Sobresaliente"},
-    {"delta_1rm": "Progreso", "rpe": "Al Limite", "rm": "Sobresaliente"}
+    {"delta_1rm": "Progreso", "rpe": "Limite", "rm": "Sobresaliente"}
   ],
   "matriz_reglas_ce": [
     {"ct": "Comprometida", "fa": "Baja", "ce": "Deficiente"},
@@ -33,9 +33,9 @@
     {"rm": "Deficiente", "ce": "Optima", "ics": "Productivo"},
     {"rm": "Aceptable", "ce": "Deficiente", "ics": "Pobre"},
     {"rm": "Aceptable", "ce": "Estandar", "ics": "Productivo"},
-    {"rm": "Aceptable", "ce": "Optima", "ics": "Pico de Rendimiento"},
+    {"rm": "Aceptable", "ce": "Optima", "ics": "AltoRendimiento"},
     {"rm": "Sobresaliente", "ce": "Deficiente", "ics": "Pobre"},
-    {"rm": "Sobresaliente", "ce": "Estandar", "ics": "Pico de Rendimiento"},
-    {"rm": "Sobresaliente", "ce": "Optima", "ics": "Pico de Rendimiento"}
+    {"rm": "Sobresaliente", "ce": "Estandar", "ics": "AltoRendimiento"},
+    {"rm": "Sobresaliente", "ce": "Optima", "ics": "AltoRendimiento"}
   ]
 }
